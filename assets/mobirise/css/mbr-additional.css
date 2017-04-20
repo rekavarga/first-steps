@@ -472,6 +472,10 @@ h6,
 #menu-0 .dropdown-item[aria-expanded="true"] {
   color: #c0a375!important;
 }
+#header1-1 .mbr-section-title {
+  text-align: center;
+  color: #f28281;
+}
 #pricing-table1-4 .mbr-section__container .mbr-section-title {
   color: #fff;
 }
