@@ -506,6 +506,15 @@ h6,
 #pricing-table2-3 .mbr-plan-label {
   color: #ffffff;
 }
+#pricing-table2-3 B {
+  color: #000000;
+}
+#pricing-table2-3 DIV {
+  color: #000000;
+}
+#pricing-table2-3 UL {
+  font-size: 14px;
+}
 #header3-5 .mbr-section-title,
 #header3-5 .mbr-section-subtitle {
   text-align: center;
